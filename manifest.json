@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "Opens a new page with Google search box and current time display",
     "action": {
-        "default_icon": "crow.png"
+        "default_icon": "public/crow.png"
     },
     "permissions": [
         "tabs"

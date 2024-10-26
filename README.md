@@ -14,4 +14,4 @@ newpage.js is the script that will be executed in the extension.
 
 display is as follows:
 
-<img src="display.jpg" alt="display" width="80%">
+<img src="public/display.jpg" alt="display" width="80%">
