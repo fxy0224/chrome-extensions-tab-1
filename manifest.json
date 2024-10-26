@@ -3,6 +3,9 @@
     "name": "Google Search with Clock",
     "version": "1.0",
     "description": "Opens a new page with Google search box and current time display",
+    "chrome_url_overrides": {
+        "newtab": "newpage.html"
+    },
     "action": {
         "default_icon": "public/crow.png"
     },
