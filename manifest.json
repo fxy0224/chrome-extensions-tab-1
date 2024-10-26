@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Google Search with Clock",
+    "version": "1.0",
+    "description": "Opens a new page with Google search box and current time display",
+    "action": {
+        "default_icon": "crow.png"
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
